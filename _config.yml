@@ -1,0 +1,5 @@
+title: Wen Qiang's Blog
+description: 写写交易，折腾AI，记录生活
+theme: minima
+plugins:
+  - jekyll-feed
